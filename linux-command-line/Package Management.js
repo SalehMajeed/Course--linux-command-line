@@ -8,4 +8,5 @@
     7. apt upgrade -> download packages that are in list.
     8. apt list --upgradable -> show all the list of packages to upgrade.
     9. apt full-upgrade -> upgrade completely.
+    10 snaps -> 
 */
